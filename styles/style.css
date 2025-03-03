@@ -97,13 +97,13 @@
         left: 60%;
     }
 
-    .home-button button{
+    .home-button {
         display: flex;
         position: absolute;
         background-color: rgb(3, 132, 112);
         cursor: pointer;
         text-decoration: none;
-        margin-top: 10%;
+        top: 10%;
         left: 30%;
     }
 
